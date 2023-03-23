@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+*{
+  font-family: poppins;
+}
+body{
+  color:white
+}
+.navbar{
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(14.9px);
+-webkit-backdrop-filter: blur(14.9px);
+border-bottom: 1px solid #7a8282;
+ 
+}
+.container{
+  margin-top: 30px;
+}
+.container section{
+  margin-top: 30px;
+}
+.img{
+  margin-right: 50%;
+  float: left;
+  width: 70px;
+  height: 70px;
+
+}
+.navbar a:hover{
+  border-bottom: 2px solid #131414;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+.travel_main
+{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+  
+}
+
+.travel_main img
+{
+  width: 100%;
+}
+
+.travel_main hr
+{
+    width: 230px; 
+}
+
+.travel_main h5 , .travel_main p
+{
+margin: 20px;
+}
+h4{
+  color:black;
+  padding: 5px;
+  text-align: center;
+}
+h4:hover{
+  color: gray;
+}
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i
+{
+float: right;
+}
+
+.movie_text span
+{
+color: #ff7700;
+}
+
+.envi_list
+{
+  margin-top: 13px;
+}
+
+.envi_list h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.envi_list img
+{
+  border-radius: 25px;
+}
+
+.envi_list p
+{
+  margin-top:10px;
+}
+
+.header_entrepreneur
+{
+  line-height: 2;
+}
+
+.book
+{
+  cursor: pointer;
+}
+
+.book hr
+{
+  margin-bottom: 10px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
+
+#size{
+  width:250px;
+  max-height: 420px;
+
+}
+
+.f_img{
+  width:250px;
+  height:auto;
+}
+
+.footer{
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(14.9px);
+-webkit-backdrop-filter: blur(14.9px);
+border-top: 1px solid #7a8282;
+ 
+}
